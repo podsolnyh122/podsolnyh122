@@ -1,4 +1,4 @@
-<h1 align="center">🌻 Podsolnyh112 KRUTOI</h1>
+<h1 align="center">🌻 Podsolnyh122 KRUTOI</h1>
 
 ###
 
@@ -11,14 +11,14 @@
 
 <!-- Статистика профиля -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=podsolnyh112&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=ru" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=podsolnyh122&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=ru" alt="GitHub Stats" />
 </p>
 
 ###
 
 <!-- Трофеи -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=podsolnyh112&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=podsolnyh122&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </p>
 
 ###
@@ -26,8 +26,8 @@
 <!-- Анимация со змейкой -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/podsolnyh112/podsolnyh112/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/podsolnyh112/podsolnyh112/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/podsolnyh112/podsolnyh112/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/podsolnyh122/podsolnyh122/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/podsolnyh122/podsolnyh122/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/podsolnyh122/podsolnyh122/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
