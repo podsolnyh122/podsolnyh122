@@ -16,9 +16,9 @@
 
 ###
 
-<!-- Трофеи -->
+<!-- Топ языков -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=podsolnyh122&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=podsolnyh122&layout=compact&theme=bear&locale=ru&hide_border=true" alt="Top Languages" />
 </p>
 
 ###
