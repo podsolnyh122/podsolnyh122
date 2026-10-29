@@ -20,7 +20,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=podsolnyh122&layout=compact&theme=bear&locale=ru&hide_border=true" alt="Top Languages" />
 </p>
-и чуть C
 
 ###
 
